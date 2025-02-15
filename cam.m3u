@@ -1,4 +1,1 @@
-#EXTM3U
-#EXTINF:0,rtsp://192.168.1.108:554/stream1
-#EXTVLCOPT:network-caching=1000
-rtsp://aleksey2910:a29101982@192.168.1.108:554/stream1
+
